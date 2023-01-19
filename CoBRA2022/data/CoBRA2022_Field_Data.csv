@@ -1,4 +1,4 @@
-﻿SampleID,Date,Time,Area,Site,Plot,plotID,subsamples,depth_cm,pH,SpC_mScm,ORP_mV,temp_degC,comments
+﻿sampleID,date,time,area,site,plot,plotID,subsamples,depth_cm,pH,SC_mScm,ORP_mV,temp_degC,comments
 CoBRA2022-1,11/15/22,10:24,TB,Saline,1,TB-S1,A,40,7.14,NA,-402,16.8,
 CoBRA2022-2,11/15/22,10:39,TB,Saline,1,TB-S1,A,30,6.97,NA,-378,16.7,
 CoBRA2022-3,11/15/22,10:58,TB,Saline,1,TB-S1,A,20,7.13,NA,-449,16.9,
